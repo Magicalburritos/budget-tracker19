@@ -1,0 +1,21 @@
+{
+  "icons": [
+    {
+      "src": "public/icons/icon-192x192.png",
+      "sizes": "192X192",
+      "type": "image/png"
+    },
+    {
+      "src": "public/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Budget Tracker",
+  "short_name": "Tracker",
+  "theme_color": "#ffffff",
+  "background_color": "#01579b",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "description": "allows you to track money spending."
+}

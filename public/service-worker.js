@@ -1,4 +1,4 @@
-const APP_PREFIX = 'BudgetTracker';
+const APP_PREFIX = 'Budget Tracker';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
@@ -6,9 +6,10 @@ const FILES_TO_CACHE = [
   './css/style.css',
   './js/idb.js',
   './js/index.js',
-  './manifest.json',
+  '/manifest.json',
+  '/icons/icon-192x192.png',
+  '/icons/icon-512x512.png',
 ];
-
 self.addEventListener('install', function (e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
