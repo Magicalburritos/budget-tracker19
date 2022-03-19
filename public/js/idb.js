@@ -10,13 +10,13 @@ request.onsuccess = function (event) {
   db = event.target.result;
   if (navigator.onLine) {
     uploadBudget();
-    console.log(uploadBudget());
   }
   request.onerror = function (event) {
     console.log(event.target.errorCode);
   };
 
   function saveRecord(record) {
+    console.log('!!!!', db);
     const transaction = db.transaction(['new_budget'], 'readwrite');
     const budgetObjectStore = transaction.objectStore('new_budget');
     budgetObjectStore.add(record);
