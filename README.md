@@ -2,7 +2,7 @@
 
   # Budget tracker
 
-  ![GitHub](https://img.shields.io/github/license/Magicalburritos/Budget Tracker)
+  ![GitHub](https://img.shields.io/github/license/Magicalburritos/Budget-tracker19)
   
 ## Description
 
