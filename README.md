@@ -14,8 +14,8 @@ This is a full stack app for tracking deposits and withdrawls using mongodbAtlas
 * [License](#license)
 
 ## usage
-click here to be taken to the deployed application
- 
+click [here](https://morning-reef-57138.herokuapp.com/) to be taken to the deployed application
+ ![screenshot of deployed application](/budget-Demo.png)
  
 ## license
 MIT
