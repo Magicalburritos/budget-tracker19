@@ -6,7 +6,7 @@
   
 ## Description
 
-This is a full stack app for tracking deposits and withdrawls using mongodbAtlas the database and herko to deploy the application
+This is a full stack app for tracking deposits and withdrawls using mongodbAtlas as the database and herko to deploy the application
 
 ## table of Contents
 * [Usage](#usage)
