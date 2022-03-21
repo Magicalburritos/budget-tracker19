@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a full stack app for tracking deposits and withdrawls using mongodbAtlas the database and herko to deploy the application
+This is a full stack app for tracking deposits and withdrawls using mongodbAtlas as the database and herko to deploy the application
 
 ## table of Contents
 
@@ -21,7 +21,8 @@ This is a full stack app for tracking deposits and withdrawls using mongodbAtlas
 
 ## usage
 
-click [here](https://morning-reef-57138.herokuapp.com/) to be taken to the deployed application
+click [here](https://morning-reef-57138.herokuapp.com/) to be taken to the deployed application. Dont forget to test the ability to test added things when in offline mode!
+![screenshot of deployed application](/budget-Demo.png)
 
 ## license
 
