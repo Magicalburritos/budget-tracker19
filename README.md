@@ -8,16 +8,11 @@ This is a full stack app for tracking deposits and withdrawls using mongodbAtlas
 
 ## table of Contents
 
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## installation
-
-```
-
-```
 
 ## usage
 
