@@ -21,7 +21,7 @@ This is a full stack app for tracking deposits and withdrawls using mongodbAtlas
 
 ## usage
 
-click [here](https://morning-reef-57138.herokuapp.com/) to be taken to the deployed application. Dont forget to test the ability to test added things when in offline mode!
+click [here](https://morning-reef-57138.herokuapp.com/) to be taken to the deployed application. Dont forget to test the ability to added things when in offline mode!
 ![screenshot of deployed application](/budget-Demo.png)
 
 ## license
